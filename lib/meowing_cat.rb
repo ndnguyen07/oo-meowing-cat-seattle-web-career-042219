@@ -1,4 +1,5 @@
 ## code your solution here. 
 
 class Cat
-  attr_name
+  attr_name :$FILENAME
+  
